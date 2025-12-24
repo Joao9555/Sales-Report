@@ -1,0 +1,30 @@
+{
+  "vendas": [
+    {
+      "nome": "RAIANE BATISTA DOS SANTOS",
+      "cpf": "100.559.809-61",
+      "telefone1": "4499703-9843",
+      "operadora": "ISUPER",
+      "plano": "350 MEGA",
+      "vendedor": "Valério",
+      "cidade": "Paiçandu",
+      "id": 1,
+      "status": "Instalada",
+      "dataInstalacao": "2025-12-22"
+    },
+    {
+      "operadora": "ISUPER",
+      "plano": "600 MEGA",
+      "vendedor": "Wesley",
+      "nome": "MARIA MARCIA SILVA JUSTINO",
+      "cpf": "794.529.909-10",
+      "telefone1": "449-9740-9426",
+      "telefone2": "",
+      "cidade": "Paiçandu",
+      "dataInstalacao": "",
+      "status": "Analise",
+      "valorCombo": "",
+      "id": 2
+    }
+  ]
+}
